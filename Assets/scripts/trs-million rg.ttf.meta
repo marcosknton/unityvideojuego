@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a757e43681fb9354fb53411a8f9d4974
+timeCreated: 1493459202
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TRS Million
+  fontNames:
+  - TRS Million
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
